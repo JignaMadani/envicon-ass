@@ -156,7 +156,7 @@ footer .wp-block-navigation .wp-block-navigation-item a:hover{
     margin-left: 2px !important;
     margin-right: 2px !important;
     margin-bottom: 0px;
-    padding:0px;
+    padding:20px 0px 0px;
 }
 .social-icons {
     display: flex;
